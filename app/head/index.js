@@ -9,7 +9,7 @@ import {Box}       from '@chakra-ui/react'
 
 export default function HeadSection( ){
 
-  const [ windowWidth, setWindowWidth ] = React.useState(window.innerWidth)
+  const [ windowWidth, setWindowWidth ] = React.useState()
   //
   const handleResize = ( ) => { setWindowWidth(window.innerWidth) }
   //
