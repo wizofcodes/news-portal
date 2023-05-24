@@ -68,7 +68,7 @@ export default function CardItem({ itemData }){
                     23, May 2023
                     </Text>
                     <Text fontWeight="bold">
-                      Google's Pixel 7 and 7 Pro&apos;s design gets revealed even more with fresh crisp renders
+                      Google's Pixel 7 and 7 Pro&#39;s design gets revealed even more with fresh crisp renders
                     </Text>
             </Box>
         </Box>

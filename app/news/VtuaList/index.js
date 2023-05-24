@@ -90,7 +90,7 @@ const mainStyles = {
 
                <Box display="flex" flexDir="column" bg="white" >
 
-                <Text fontSize={['md','lg','xl','2xl']} fontWeight={800}>Google's Pixel 7 and 7 Pro&apos;s design gets revealed even more with fresh crisp renders</Text>
+                <Text fontSize={['md','lg','xl','2xl']} fontWeight={800}>Google's Pixel 7 and 7 Pro&#39;'s design gets revealed even more with fresh crisp renders</Text>
                 <Text fontSize={['xs','sm','md']}mt={2} mb={2} color="darkgray"> May 23, 2023</Text>
                 <Text fontSize={['sm','md','lg']}>Now we have a complete image of what the next Google flagship phones will look like. All that's left now is to welcome them during their October announcement!...</Text>
                 <Button size="lg" color="tomato">Read More</Button>
