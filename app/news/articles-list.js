@@ -11,5 +11,5 @@ export default function NewsArticlesList({ listData = [ ]}){
     </Text>
   </Box>
 
-    return (listData.length === 0) ? PlaceHolder( ): listData.map(renderListItem({ listItem:CardItem }))
+    return (listData.length === 0) ? PlaceHolder( ): listData.map((itemData, i) => <CardItem key = {i} itemData = { itemData } />)
 }
