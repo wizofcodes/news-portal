@@ -4,7 +4,7 @@ import Image  from  'next/image'
 // import { useState } from 'react'
 import { Box }  from '@chakra-ui/react'
 import VtuaList from './news/VtuaList'
-import CardItem from './news/CardItem'
+// import CardItem from './news/CardItem'
 import { useState, useEffect } from 'react'
 
 export default function Home() {
@@ -61,7 +61,7 @@ export default function Home() {
         <Box {  ...listContainerStyles }>
             <VtuaList
               listData   = { phoneDeals } // list data prop.
-              listItem   = { CardItem }   // list item prop ( a card component).
+              //listItem   = { CardItem }   // list item prop ( a card component).
               listStyles = { listStyles } // list styles for styling list.
              />
           </Box>
