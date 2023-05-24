@@ -1,6 +1,5 @@
 'use client'
 import React   from "react"
-import renderListItem     from '/app/news/VtuaList/renderListItem'
 import CardItem           from '/app/news/CardItem'
 import { Box, Text } from "@chakra-ui/react"
 
