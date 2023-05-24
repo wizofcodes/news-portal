@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.164482mm"
+   height="18.425747mm"
+   viewBox="0 0 24.164482 18.425747"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="news-portal-logo"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.70199214"
+     inkscape:cx="95.442664"
+     inkscape:cy="250.0028"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       originx="-79.971791"
+       originy="-82.712912" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.971795,-82.712911)">
+    <text
+       xml:space="preserve"
+       style="font-size:11.6917px;font-family:'Potti Sreeramulu';-inkscape-font-specification:'Potti Sreeramulu';opacity:1;fill:#000000;stroke:#000000;stroke-width:0.196549"
+       x="79.525497"
+       y="89.148087"
+       id="text1702"><tspan
+         style="fill:#000000;stroke-width:0.196549"
+         x="79.525497"
+         y="89.148087"
+         id="tspan1907"
+         sodipodi:role="line">News </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.6917px;font-family:'Potti Sreeramulu';-inkscape-font-specification:'Potti Sreeramulu';opacity:1;fill:#000000;stroke:#000000;stroke-width:0.196549"
+       x="79.450409"
+       y="100.93516"
+       id="text1913"><tspan
+         style="fill:#000000;stroke-width:0.196549"
+         x="79.450409"
+         y="100.93516"
+         id="tspan1911"
+         sodipodi:role="line">Portal</tspan></text>
+  </g>
+</svg>
