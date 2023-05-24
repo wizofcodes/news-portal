@@ -1,4 +1,5 @@
 'use client'
+
 import React from 'react'
 // import Deal from './Deal' // TODO: check benefit vs injecting this dep
 
