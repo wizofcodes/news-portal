@@ -7,10 +7,10 @@ import NewsCategories  from './categories'
 
 export default function NewsMainSection(){
     const mainStyles = {
-        gridColumn:"1/-1",
-        // h:"200px",
+        gridColumn:["1/-1"],
         w:"100%",
-        bg:"purple"
+        borderBottom:"2px solid black",
+        bg:"white"
       }
       //
     return  <Box { ...mainStyles }>

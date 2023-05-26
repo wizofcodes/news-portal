@@ -19,18 +19,7 @@ const SETTINGS = {
   tolerance: 2
 }
 //
-const virtualListContainer = {
-  // d:'flex',
-  // justifyContent:'center',
-  // alignItems:"center",
-  // width:'100%',
-  // h:"100%",
-  // p:2,
-  bg:'black',
-
-
-
-}
+const virtualListContainer = { bg:'white'}
 /**
 
 **/
@@ -58,7 +47,8 @@ export default function VtualList({
 
   const virtualList = {
     h:"100%",
-    m:2, bg:"blue",
+    m:2, 
+    // bg:"blue",
      // p:2,
   }
 //

@@ -5,7 +5,7 @@ import { Box, Text } from "@chakra-ui/react"
 
 export default function NewsArticlesList({ listData = [ ]}){
     const PlaceHolder = () => <Box d="flex" justifyContent="center" >
-    <Text w="50%" h="50%" fontFamily="lato">
+    <Text w="50%" h="50%" >
       No Data
     </Text>
   </Box>

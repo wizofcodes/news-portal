@@ -1,8 +1,9 @@
 'use client'
 import React       from 'react'
 import Image  from 'next/image'
-// import { Link } from '@reach/router'
+import { AiOutlineMenu } from 'react-icons/ai'
 import {Box}       from '@chakra-ui/react'
+
 //
 // import MobileMenu  from './MobileMenu'
 // import DesktopMenu from './DesktopMenu'
@@ -24,26 +25,17 @@ export default function HeadSection( ){
   //
   const headStyles = {
     display:"flex",
-    gridColumn: [
-      '1/-1',
-      '2/10',
-      // '1/-1',
-      // // '1/-1',
-      // '2/3',
-    ],
-    // d:'flex',
     justifyContent:'space-between',
-    alignItems:'center',
-    // bg:'white',
-    bg:"#fe6d34",
-    // m:2,
-    // w:["100vw","100vw","80vw", "60vw"],
+    gridColumn:["1/-1","1/-1","1/-1","2/5"],
+   borderBottom:"2px solid black",
+   m:2,
+   pt:2,
+   pb:2,
   }
   //
   return <Box { ...headStyles }>
-            <Image src= "/news-portal-logo.svg" alt="logo" height={45} width={48} />
-
-            { ( windowWidth <= 1047 ) ? <Box>Mobile</Box> : <Box>Desktop</Box> }
+            <Image src= "/news-portal-logo.svg" alt="logo" height={30} width={150} />
+            <AiOutlineMenu size={30}/>
           </Box>
 
 }
