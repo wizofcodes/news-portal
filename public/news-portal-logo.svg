@@ -2,15 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="52.607937mm"
-   height="5.4173875mm"
-   viewBox="0 0 52.607937 5.4173875"
+   width="53.985306mm"
+   height="10.449541mm"
+   viewBox="0 0 53.985306 10.449541"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
    sodipodi:docname="news-portal-logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,42 +24,75 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="0.70199214"
-     inkscape:cx="91.169112"
-     inkscape:cy="205.84276"
+     inkscape:cx="92.593629"
+     inkscape:cy="181.62597"
      inkscape:window-width="1846"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g405">
+     inkscape:current-layer="g405"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid132"
-       originx="-81.162642"
-       originy="-94.914405" />
+       originx="-80.944352"
+       originy="-79.478638" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2363"
+       id="pattern3351"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,80.944357,79.478635)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="204.03895"
+       height="39.494329"
+       patternTransform="translate(-6.7901911,-11.063726)"
+       id="pattern2363">
+      <g
+         id="g2361"
+         style="stroke:none"
+         transform="matrix(3.7795276,0,0,3.7795276,-299.96626,-347.66786)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.455671"
+           id="rect350"
+           width="53.158897"
+           height="10.449541"
+           x="79.366074"
+           y="91.987122" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.33301px;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;opacity:1;fill:#000000;stroke:none;stroke-width:0.140086"
+           x="80.273201"
+           y="99.71627"
+           id="text1702"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;fill:#000000;stroke:none;stroke-width:0.140086"
+             x="80.273201"
+             y="99.71627"
+             id="tspan1907"
+             sodipodi:role="line">NEWS PORTAL  </tspan></text>
+      </g>
+    </pattern>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-81.162645,-94.914399)">
+     transform="translate(-80.944359,-79.47863)">
     <g
        id="g405">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.33301px;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.140086"
-         x="80.62236"
-         y="100.12747"
-         id="text1702"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;fill:#000000;stroke-width:0.140086"
-           x="80.62236"
-           y="100.12747"
-           id="tspan1907"
-           sodipodi:role="line">NEWS PORTAL  </tspan></text>
+      <rect
+         style="fill:url(#pattern3351);stroke:none;stroke-width:0.264583"
+         width="53.985306"
+         height="10.449541"
+         x="80.944359"
+         y="79.47863"
+         id="rect2369" />
     </g>
   </g>
 </svg>
